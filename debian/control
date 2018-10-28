@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Linux7x14.h
-Description: Linux7x14 font for DisplayCore
+Description: Linux7x14
