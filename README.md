@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Linux7x14 
 
-![Linux7x14](https://raw.githubusercontent.com/DisplayCore/Linux7x14/master/Preview/Linux7x14.png)
+![Linux7x14](https://raw.githubusercontent.com/Cariad/Linux7x14/master/Preview/Linux7x14.png)
 

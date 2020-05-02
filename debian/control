@@ -1,15 +1,16 @@
-Source: libdisplaycore-font-linux7x14
+Source: libcariad-font-linux7x14
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-font-linux7x14
+Package: libcariad-font-linux7x14
+Replaces: libdisplaycore-font-linux7x14
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Fonts
-Depends: libdisplaycore-core
+Depends: libcariad-core
 Provides: Linux7x14.h
 Description: Linux7x14
